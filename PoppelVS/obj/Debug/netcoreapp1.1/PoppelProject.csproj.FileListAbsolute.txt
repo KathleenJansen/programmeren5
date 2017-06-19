@@ -1,0 +1,18 @@
+C:\PoppelProjectNew\PoppelProject\PoppelProject\bin\Debug\netcoreapp1.1\PoppelProject.deps.json
+C:\PoppelProjectNew\PoppelProject\PoppelProject\bin\Debug\netcoreapp1.1\PoppelProject.runtimeconfig.json
+C:\PoppelProjectNew\PoppelProject\PoppelProject\bin\Debug\netcoreapp1.1\PoppelProject.runtimeconfig.dev.json
+C:\PoppelProjectNew\PoppelProject\PoppelProject\bin\Debug\netcoreapp1.1\PoppelProject.dll
+C:\PoppelProjectNew\PoppelProject\PoppelProject\bin\Debug\netcoreapp1.1\PoppelProject.pdb
+C:\PoppelProjectNew\PoppelProject\PoppelProject\obj\Debug\netcoreapp1.1\PoppelProject.AssemblyInfo.cs
+C:\PoppelProjectNew\PoppelProject\PoppelProject\obj\Debug\netcoreapp1.1\PoppelProject.dll
+C:\PoppelProjectNew\PoppelProject\PoppelProject\obj\Debug\netcoreapp1.1\PoppelProject.pdb
+C:\PoppelProjectNew\PoppelProject\PoppelProject\obj\Debug\netcoreapp1.1\PoppelProject.csprojResolveAssemblyReference.cache
+C:\new shizzle\PoppelVS\bin\Debug\netcoreapp1.1\PoppelProject.deps.json
+C:\new shizzle\PoppelVS\bin\Debug\netcoreapp1.1\PoppelProject.runtimeconfig.json
+C:\new shizzle\PoppelVS\bin\Debug\netcoreapp1.1\PoppelProject.runtimeconfig.dev.json
+C:\new shizzle\PoppelVS\bin\Debug\netcoreapp1.1\PoppelProject.dll
+C:\new shizzle\PoppelVS\bin\Debug\netcoreapp1.1\PoppelProject.pdb
+C:\new shizzle\PoppelVS\obj\Debug\netcoreapp1.1\PoppelProject.csprojResolveAssemblyReference.cache
+C:\new shizzle\PoppelVS\obj\Debug\netcoreapp1.1\PoppelProject.AssemblyInfo.cs
+C:\new shizzle\PoppelVS\obj\Debug\netcoreapp1.1\PoppelProject.dll
+C:\new shizzle\PoppelVS\obj\Debug\netcoreapp1.1\PoppelProject.pdb
